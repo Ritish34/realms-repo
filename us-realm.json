@@ -2,7 +2,7 @@
   "realm" : "us-realm",
   "resource" : "usClient",
   "credentials" : {
-    "secret" : "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"
+    "secret" : "TDaeUCWD51EFHS50pjtJtd3iDSOV2ZPB"
   },
   "auth-server-url" : "http://localhost:8080",
   "public-client" : false
