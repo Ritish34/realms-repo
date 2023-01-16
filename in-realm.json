@@ -1,0 +1,9 @@
+{
+  "realm" : "in-realm",
+  "resource" : "demoClient",
+  "credentials" : {
+    "secret" : "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"
+  },
+  "auth-server-url" : "http://localhost:8080",
+  "public-client" : false
+}
