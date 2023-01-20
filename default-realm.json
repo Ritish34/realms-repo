@@ -1,9 +1,10 @@
 
 {
-  "realm" : "",
-  "resource" : "",
+  "realm" : "branch1",
+  "resource" : "demoClient",
   "credentials" : {
-    "secret" : ""
+    "secret" : "TiOpG5CowLDbOjd9Zy5zmNCoTDIGjWbG"
   },
-  "auth-server-url" : ""
+  "auth-server-url" : "http://localhost:8080",
+  "public-client" : false
 }
