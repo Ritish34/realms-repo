@@ -1,10 +1,8 @@
-
 {
-  "realm" : "branch1",
-  "resource" : "demoClient",
-  "credentials" : {
-    "secret" : "TiOpG5CowLDbOjd9Zy5zmNCoTDIGjWbG"
-  },
-  "auth-server-url" : "http://localhost:8080",
-  "public-client" : false
+	"realm": "branch1",
+	"auth-server-url": "http://localhost:8080/auth/",
+	"ssl-required": "external",
+	"resource": "web",
+	"public-client": true,
+	"confidential-port": 0
 }
